@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +68,28 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Fenrir-04/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
